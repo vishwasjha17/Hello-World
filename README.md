@@ -57,7 +57,7 @@ git checkout -b shreya#1
   - Name
   - School/College you are studying at or Company you are working at
   - Your github username or link to your github profile
-  - Anything else you want to write
+  - Anything else you want to write  
   *Check ![Sample]()*
 * Save the File
 
