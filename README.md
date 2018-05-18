@@ -1,2 +1,66 @@
-# Hello-World
-Say Hello to the World! Introduce yourself! :)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+# Make your First Contribution here!
+
+New to Open Source?  
+New to Github?  
+Don't know where to Start?  
+Don't know how to Start?  
+
+**Here is the One Stop Solution for Every Newcomer!**
+
+## 1. Begin with learning about Git and Github! How it works and learn about the various Commands.
+
+You can take any one of the following courses/videos. One is just sufficient. If you want you take more than one too! 
+
+### 1.1 Here are some Youtube Tutorials/Videos
+* ![Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets :P)
+* ![What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak&start_radio=1&list=RDxuB1Id2Wxak)
+
+### 1.2 Here are some Free Courses
+* ![Pick any Free Udemy Course for learning Git](https://www.udemy.com/courses/search/?q=git&src=ukw&p=1&price=price-free&lang=en)
+* ![Version Control with Git by Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
+
+## 2. Contribute Here! Follow these steps (Better try it yourself first!)
+
+#### a. Fork this Repository (commonly called as Repo)
+Fork this Repo by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
+
+#### b. Clone this Repo Locally
+* Go to your GitHub account and to this forked Repo, click on the `Clone or Download` button and then click the Copy to Clipboard Icon.
+* Now open Command Line/Terminal.
+* Switch to the Directory where you want to Clone this Repo.
+* Run this Command
+  ```
+  git clone https://github.com/<your-username>/Hello-World.git
+  ```
+
+#### c. Create a branch
+Change to the Repo directory on your Computer by running
+```
+cd Hello-World
+```
+Now create a branch
+```
+git checkout -b <branch-name>
+```
+A good way to name your branch is *<your-username>#<issue-number>*
+For example:
+```
+git checkout -b shreya#1
+```
+
+#### d. Make necessary changes
+
+#### e. Commit the Changes
+* `git status`
+* `git add <file-names>`
+* `git commit -m "Contribution by <your-username>"`
+
+#### f. Push the Changes to Github
+* `git push origin <branch-name>`
+
+#### g. Submit the Pull Request
+* Go to your Hello-World Repo on GitHub
+* Click `Compare & Pull Request` button.
+* Click `Submit Pull Request`
