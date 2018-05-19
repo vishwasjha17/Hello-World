@@ -14,12 +14,12 @@ Don't know how to Start?
 You can take any one of the following courses/videos. One is just sufficient. If you want you take more than one too! 
 
 ### 1.1 Here are some Youtube Tutorials/Videos
-* ![Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets :P)
-* ![What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak&start_radio=1&list=RDxuB1Id2Wxak)
+* [Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets :P)
+* [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak)
 
 ### 1.2 Here are some Free Courses
-* ![Pick any Free Udemy Course for learning Git](https://www.udemy.com/courses/search/?q=git&src=ukw&p=1&price=price-free&lang=en)
-* ![Version Control with Git by Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
+* [Pick any Free Udemy Course for learning Git](https://www.udemy.com/courses/search/?q=git&src=ukw&p=1&price=price-free&lang=en)
+* [Version Control with Git by Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
 
 ## 2. Contribute Here! Follow these steps (Better try it yourself first!)
 
