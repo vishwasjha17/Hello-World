@@ -1,11 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# Make your First Contribution here!
+# Make your First Contribution here!:smiley:
 
 New to Open Source?  
-New to Github?  
+New to Github?
 Don't know where to Start?  
-Don't know how to Start?  
+Don't know how to Start?:confused::grey_question:
 
 **Here is the One Stop Solution for Every Newcomer!**
 
@@ -14,20 +14,20 @@ Don't know how to Start?
 You can take any one of the following courses/videos. One is just sufficient. If you want you take more than one too! 
 
 ### 1.1 Here are some Youtube Tutorials/Videos
-* [Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets :P)
+* [Git and Github for Poets by The Coding Train](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) (It's for everyone and not just poets:stuck_out_tongue_winking_eye:)
 * [What is Git | What is GitHub | Git Tutorial | GitHub Tutorial | Devops Tutorial | Edureka](https://www.youtube.com/watch?v=xuB1Id2Wxak)
 
-### 1.2 Here are some Free Courses
+### 1.2 Here are some Free Courses:free:
 * [Pick any Free Udemy Course for learning Git](https://www.udemy.com/courses/search/?q=git&src=ukw&p=1&price=price-free&lang=en)
 * [Version Control with Git by Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
 
 ## 2. Contribute Here! Follow these steps (Better try it yourself first!)
 
-### 2.1 Fork this Repository (commonly called as Repo)
+### 2.1 Fork this Repository:fork_and_knife:(commonly called as Repo:open_file_folder:)
 Fork this Repo by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
 
 ### 2.2 Clone this Repo Locally
-* Go to your GitHub account and to this forked Repo, click on the `Clone or Download` button and then click the Copy to Clipboard Icon.
+* Go to your GitHub account and to this forked Repo, click on the `Clone or Download` button and then click the Copy to Clipboard Icon.:clipboard:
 * Now open Command Line/Terminal.
 * Switch to the Directory where you want to Clone this Repo.
 * Run this Command
@@ -35,7 +35,7 @@ Fork this Repo by clicking on the Fork button on the top of this page. This will
   git clone https://github.com/<your-username>/Hello-World.git
   ```
 
-### 2.3 Create a branch
+### 2.3 Create a branch:trident:
 Change to the Repo directory on your Computer by running
 ```
 cd Hello-World
@@ -50,16 +50,16 @@ For example:
 git checkout -b shreya#1
 ```
 
-### 2.4 Make necessary changes
+### 2.4 Make necessary changes:white_check_mark:
 * Go to [Contributors](https://github.com/Novice-Paradigm/Hello-World/tree/master/Contributors) directory
-* Create a file
+* Create a file:page_facing_up:.	
 * Write about Yourself (in any Language)
   - Name
   - School/College you are studying at or Company you are working at
   - Your github username or link to your github profile
   - Anything else you want to write  
   *Check [Sample](https://github.com/Novice-Paradigm/Hello-World/blob/master/Contributors/Sample.md)*
-* Save the File
+* Save:floppy_disk: the File.
 
 ### 2.5 Commit the Changes
 * `git status`
@@ -74,4 +74,4 @@ git checkout -b shreya#1
 * Click `Compare & Pull Request` button.
 * Click `Create Pull Request`
 
-After you are done with this check the [Open Issues](https://github.com/Novice-Paradigm/Hello-World/issues) in this repo or other repos of [Novice Paradigm](https://github.com/Novice-Paradigm) and continue Contributing!
+After you are done with this check the [Open Issues](https://github.com/Novice-Paradigm/Hello-World/issues) in this repo or other repos of [Novice Paradigm](https://github.com/Novice-Paradigm) and continue Contributing!:smile::smile:
