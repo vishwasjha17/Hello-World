@@ -3,9 +3,9 @@
 # Make your First Contribution here!:smiley:
 
 New to Open Source?  
-New to Github?
+New to Github?  
 Don't know where to Start?  
-Don't know how to Start?:confused::grey_question:
+Don't know how to Start?:confused::grey_question:  
 
 **Here is the One Stop Solution for Every Newcomer!**
 
@@ -25,6 +25,7 @@ You can take any one of the following courses/videos. One is just sufficient. If
 
 ### 2.1 Fork this Repository:fork_and_knife:(commonly called as Repo:open_file_folder:)
 Fork this Repo by clicking on the Fork button on the top of this page. This will create a copy of this Repo in your Github account.
+Don't forget to `Star`it!
 
 ### 2.2 Clone this Repo Locally
 * Go to your GitHub account and to this forked Repo, click on the `Clone or Download` button and then click the Copy to Clipboard Icon.:clipboard:
@@ -47,8 +48,9 @@ git checkout -b <branch-name>
 A good way to name your branch is *<your-username>#<issue-number>*
 For example:
 ```
-git checkout -b shreya#1
+git checkout -b shreya#11
 ```
+*NOTE: The issue number for this is [#11](https://github.com/Novice-Paradigm/Hello-World/blob/master/README.md)*
 
 ### 2.4 Make necessary changes:white_check_mark:
 * Go to [Contributors](https://github.com/Novice-Paradigm/Hello-World/tree/master/Contributors) directory
