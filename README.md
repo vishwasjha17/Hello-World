@@ -1,6 +1,6 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[<img align="right" src="Images/join-us-on-slack.jpg">](https://join.slack.com/t/noviceparadigm/shared_invite/enQtMzcwMzg0ODczMzI5LWJlNjgxNTNmZTE0MWYwZDZjOWI3NDNiM2EwM2UwODkyMDZlOTFjNTJhYTZlZTczMDM1MDJmOTA1YWUxMTA0Yjg)
+[<img align="right" width="120" src="Images/join-us-on-slack.jpg">](https://join.slack.com/t/noviceparadigm/shared_invite/enQtMzcwMzg0ODczMzI5LWJlNjgxNTNmZTE0MWYwZDZjOWI3NDNiM2EwM2UwODkyMDZlOTFjNTJhYTZlZTczMDM1MDJmOTA1YWUxMTA0Yjg)
 
 # Make your First Contribution here! :tada:
 
