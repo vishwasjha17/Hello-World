@@ -1,8 +1,6 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<a href="https://gitter.im/NoviceParadigm/Lobby">
-   <img align="right" src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg">
-</a>
+[<img align="right" src="images/join-slack-team.png">](https://join.slack.com/t/noviceparadigm/shared_invite/enQtMzcwMzg0ODczMzI5LWJlNjgxNTNmZTE0MWYwZDZjOWI3NDNiM2EwM2UwODkyMDZlOTFjNTJhYTZlZTczMDM1MDJmOTA1YWUxMTA0Yjg)
 
 # Make your First Contribution here! :tada:
 
