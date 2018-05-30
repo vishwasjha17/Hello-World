@@ -3,4 +3,4 @@ my next goal is to learn a static language i.e java , rust etc.
 
 i believe this is an excellent idea and looking forward to working on this project and seeing it grow! :)
 
-github username is ericsupreme
+github username is ericsupreme https://github.com/ericsupreme
